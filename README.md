@@ -50,12 +50,14 @@ I have 4+ years of industry experience in building state-of-the-art Deep Learnin
 </p>
 
 <h3 align="center">🗂️ Highlight Projects</h3>
+<p width="100%" align="center">
 <a href="https://github.com/iabhi7/All-Conv-Keras">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateLabs&repo=All-Conv-Keras&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="All-Conv-CNN" />
 </a>
 <a href="https://github.com/iabhi7/PyConIndia2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iabhi7&repo=PyConIndia2018&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="PyConIndia2018" />
 </a>
+</p>
 
 <h3 align="center">🏆 GitHub Trophies:</h3>
 <p width="100%" align="center">

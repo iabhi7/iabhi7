@@ -39,34 +39,34 @@ I have 4+ years of industry experience in building state-of-the-art Deep Learnin
 
 
 
-#### 📈 **My GitHub Stats**
-
+<h3 align="center">📈 My Github Stats:</h3>
+<p align="center">
 <a href="https://github.com/iabhi7/iabhi7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhi7&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Abhishek's GitHub Stats" />
+  <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhi7&hide=c%2B%2B,css,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="Abhishek's GitHub Stats" />
 </a>
-
 <a href="https://github.com/iabhi7/iabhi7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iabhi7&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Abhishek's GitHub Stats" />
+  <img height=175 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=iabhi7&show_icons=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Abhishek's GitHub Stats" />
 </a>
+</p>
 
-#### 🏆 **GitHub Trophies** 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iabhi7&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-#### 🗂️ **Highlight Projects**
-
+<h3 align="center">🗂️ Highlight Projects</h3>
 <a href="https://github.com/iabhi7/All-Conv-Keras">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateLabs&repo=All-Conv-Keras&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="All-Conv-CNN" />
 </a>
-
 <a href="https://github.com/iabhi7/PyConIndia2018">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iabhi7&repo=PyConIndia2018&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="PyConIndia2018" />
 </a>
 
-#### 🧑‍💻 **This week, I spent my time on:**
+<h3 align="center">🏆 GitHub Trophies:</h3>
+<p width="100%" align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=iabhi7&theme=nord&column=6" alt="GitHub Trophies" />
+</p>
 
-[![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iabhi7&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3 align="center">🧑‍💻 This week, I spent my time on:</h3>
+<p width="100%" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iabhi7&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Abhishek's wakatime stats" />
+</p>
 
 
 

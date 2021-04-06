@@ -12,17 +12,15 @@
 </h5>
 
 
-Hi, I'm [Abhishek Kumar](https://iabhi.in/), Deep Learning Enginner at [Sylvera](https://sylvera.com/). (BTW, we are hiring, check the open position [here.](https://apply.workable.com/sylvera/) )
+Hi, I'm [Abhishek Kumar](https://iabhi.in/), Deep Learning Enginner at [Sylvera](https://sylvera.com/). (BTW, we are hiring, check the open position [here.](https://apply.workable.com/sylvera/))
 
-I have 4+ years of industry experience in building state-of-the-art Deep Learning algorithms. I specialize in Deep 3D networks, different sensor modularities, network quantization and optimization. I am an avid speaker and loves to contribute to the open-source community. 
-
-I am a huge sports fan I watch almost everything and plays a few sport, an Athlete, a Real Madrid F.C follower.
+I have 4+ years of industry experience in building state-of-the-art Deep Learning algorithms. I specialize in Deep 3D networks, different sensor modularities, network quantization and optimization. I am an avid speaker and loves to contribute to the open-source community. I am a huge sports fan I watch almost everything and plays a few sport, an Athlete, a Real Madrid F.C follower.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
   
 - 💬 Ask me about DL/ML, Python; would be happy to help
-- 📫 Reach me on [@iabhi0](https://twitter.com/iabhi0)
+- 📫 Reach me out on [Twitter](https://twitter.com/iabhi0)
 - 📝 [Resume](https://drive.google.com/file/d/1EW8qdt3z-fsRh_OLrv4DG3W3Qmy6GCgV/view)
 - ⚡ Fun fact: I have no idea how my Most used language is CSS
 

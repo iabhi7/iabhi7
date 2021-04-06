@@ -22,7 +22,7 @@ I have 4+ years of industry experience in building state-of-the-art Deep Learnin
 - 💬 Ask me about DL/ML, Python; would be happy to help
 - 📫 Reach me out on [Twitter](https://twitter.com/iabhi0)
 - 📝 [Resume](https://drive.google.com/file/d/1EW8qdt3z-fsRh_OLrv4DG3W3Qmy6GCgV/view)
-- ⚡ Fun fact: I have no idea how my Most used language is CSS
+- ⚡ Fun fact: I have no idea how my Most used language is JavaScript
 
 
 **🔧 Technologies & Tools**

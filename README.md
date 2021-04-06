@@ -1,5 +1,4 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=iabhi7.iabhi7">
-<br>
 <h3 align="center">
   Hello World, I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"
 </h3>

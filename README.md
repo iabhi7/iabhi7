@@ -4,6 +4,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/iabhi7/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+</p>
 <a target="_blank" href="https://www.instagram.com/abhishektiwari07/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -21,7 +22,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iabhi7.iabhi7)
-</p>
 
 
 Hi, I'm [Abhishek Kumar](https://iabhi.in/), Deep Learning Enginner at [Sylvera](https://sylvera.com/). (BTW, we are hiring, check the open position [here.](https://apply.workable.com/sylvera/) )

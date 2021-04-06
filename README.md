@@ -50,7 +50,7 @@ I have 4+ years of industry experience in building state-of-the-art Deep Learnin
 
 
 
-📈 **My GitHub Stats**
+#### 📈 **My GitHub Stats**
 
 <a href="https://github.com/iabhi7/iabhi7">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhi7&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Abhishek's GitHub Stats" />
@@ -60,12 +60,12 @@ I have 4+ years of industry experience in building state-of-the-art Deep Learnin
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iabhi7&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Abhishek's GitHub Stats" />
 </a>
 
-##### 🏆 **GitHub Trophies** 
+#### 🏆 **GitHub Trophies** 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iabhi7&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-🗂️ **Highlight Projects**
+#### 🗂️ **Highlight Projects**
 
 <a href="https://github.com/iabhi7/All-Conv-Keras">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateLabs&repo=All-Conv-Keras&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="All-Conv-CNN" />
@@ -75,7 +75,7 @@ I have 4+ years of industry experience in building state-of-the-art Deep Learnin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iabhi7&repo=PyConIndia2018&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="PyConIndia2018" />
 </a>
 
-##### 🧑‍💻 **This week, I spent my time on:**
+#### 🧑‍💻 **This week, I spent my time on:**
 
 [![Abhishek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iabhi7&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
 

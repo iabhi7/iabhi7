@@ -30,10 +30,10 @@ I have 4+ years of industry experience in building state-of-the-art Deep Learnin
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
   
-- 💬 Ask me about DL/ML, Python;
-- 📫 Reach me on [@iabhi0](https://twitter.com/iabhi0) Twitter
+- 💬 Ask me about DL/ML, Python; would be happy to help
+- 📫 Reach me on [@iabhi0](https://twitter.com/iabhi0)
 - 📝 [Resume](https://drive.google.com/file/d/1EW8qdt3z-fsRh_OLrv4DG3W3Qmy6GCgV/view)
-- ⚡ Fun fact: Big Fan of the :meow_party: emoji
+- ⚡ Fun fact: I have no idea how my Most used language is CSS
 
 
 **🔧 Technologies & Tools**

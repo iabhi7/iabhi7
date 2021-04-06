@@ -1,27 +1,16 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/iabhi7/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</p>
-<a target="_blank" href="https://www.instagram.com/abhishektiwari07/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://twitter.com/iabhi0">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a target="_blank" href="mailto:me@iabhi.in">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/iabhi007/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=919622061677">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=iabhi7.iabhi7)
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=iabhi7.iabhi7">
+<br>
+<h3 align="center">
+  Hello World, I'm Abhishek <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"
+</h3>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/iabhi7/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/abhishektiwari07/" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"> Instagram</a></code>
+  <code><a href="https://twitter.com/iabhi0" title="Twitter Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"> Twitter</a></code>
+  <code><a href="mailto:me@iabhi.in" title="Email Me"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> Mail</a></code>
+  <code><a href="https://www.facebook.com/iabhi007/" title="Facebook Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"> Facebook</a></code>
+  <code><a href="https://api.whatsapp.com/send?phone=919622061677" title="Whatsapp Me"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"> Whatsapp</a></code>
+</h5>
 
 
 Hi, I'm [Abhishek Kumar](https://iabhi.in/), Deep Learning Enginner at [Sylvera](https://sylvera.com/). (BTW, we are hiring, check the open position [here.](https://apply.workable.com/sylvera/) )

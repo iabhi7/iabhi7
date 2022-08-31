@@ -65,11 +65,5 @@ I have 4+ years of industry experience in building state-of-the-art Deep Learnin
 </p>
 
 
-<h3 align="center">🧑‍💻 This week, I spent my time on:</h3>
-<p width="100%" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iabhi7&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Abhishek's wakatime stats" />
-</p>
-
-
 
 

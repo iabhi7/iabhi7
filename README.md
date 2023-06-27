@@ -14,7 +14,7 @@
 
 Hi, I'm [Abhishek Kumar](https://iabhi.in/), Deep Learning Enginner at [Sylvera](https://sylvera.com/). (BTW, we are hiring, check the open position [here.](https://apply.workable.com/sylvera/))
 
-I have 4+ years of industry experience in building state-of-the-art Deep Learning algorithms. I specialize in Deep 3D networks, different sensor modularities, network quantization and optimization. I am an avid speaker and loves to contribute to the open-source community. I am a huge sports fan I watch almost everything and plays a few sport, an Athlete, a Real Madrid F.C follower.
+I have &+ years of industry experience in building state-of-the-art Deep Learning products, building and scaling companies/startups, working with different teams bridging the gap between hopes and hard science. I have lead teams from prototype to productions working with Deep 2D/3D networks, different sensor modalities, network quantization and optimization.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220" />
